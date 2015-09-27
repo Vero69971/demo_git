@@ -1,2 +1,3 @@
-# demo_git
-Cours GitHub
+demo_git
+========
+Cours GitHub d'OPENCLASSROOMS
